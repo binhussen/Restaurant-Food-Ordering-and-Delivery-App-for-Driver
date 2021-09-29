@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ምግብ ማዘዣ</string>
+    <string name="slogan">ቃና ምግብ ቤት</string>
+
+    <!--MainActivity Button-->
+    <string name="signUp">ተመዝገብ</string>
+    <string name="signIn">ግባ </string>
+    <string name="title_activity_home"></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>ዋና
+    <string name="change_lang">ቋንቋ</string>
+
+
+    <string name="total">ጠቅላላ ዋጋ : </string>
+    <string name="placeorder">ዕዘዝ</string>
+    <string name="continu">ቀጥል</string>
+    <string name="price">ብር</string>
+    <string name="foodname">የምግብ ስም</string>
+    <string name="birr">ብር</string>
+    <string name="search">ምግብ ያስገቡ</string>
+
+    <string name="menu">የምግብ ዝርዝር</string>
+    <string name="cart">ጋሪ</string>
+    <string name="orders">ትዕዛዞች</string>
+    <string name="help">እገዛ</string>
+    <string name="share">አጋራ</string>
+    <string name="refresh">አድስ</string>
+    <string name="signout"> ውጣ</string>
+    <string name="send">ላክ</string>
+    <string name="setting">ማስተካከያ </string>
+    <string name="forget_pwd"><u>የይለፍ ቃሉን ረስተዋል!?</u></string>
+    <string name="remember"><u>አስታውስ </u></string>
+    <string name="comment">አስተያየት</string>
+    <string name="change_password">የይለፍ ቃሉን ቀይር </string>
+    <string name="searchs">ምግብ ፈልግ </string>
+    <string name="description">መግለጫ </string>
+    <string name="phone">ስልክ ቁጥር </string>
+    <string name="name">ስም </string>
+    <string name="password">የይለፍ ቃል </string>
+    <string name="securecode">የሚስጥር xሁፍ </string>
+    <string name="newpassword">አዲስ የይለፍ ቃል </string>
+    <string name="repeatpassword">የይለፍ ቃሉን ድገም </string>
+    <string name="about">ስለ እኛ </string>
+    <string name="address">አድራሻ </string>
+
+
+    <string name="idom">የእርስዎ ጥበቃ የእኛ አገልግሎት ነው</string>
+    <string name="txtlogin">መለያ የለህም? ክፈት</string>
+    <string name="txtlogup">ቀድሞውኑ መለያ አለዎት? ይግቡ</string>
+
+    <!--cart-->
+    <string name="item">የጠቅላላ እቃ ዋጋ:</string>
+    <string name="pack">የማሸጊያ ዋጋ :</string>
+    <string name="delivery">የማቅረቢያ ዋጋ :</string>
+    <string name="tax">ቀረጥ :</string>
+    <string name="surcharge">Surcharge :</string>
+
+    <string name="title_activity_tracking_order">TrackingOrder</string>
+
+    <!--java-->
+    <string name="emptycart">ጋሪዎ ባዶ ነው  !!</string>
+    <string name="step">ተጨማሪ ገባ!</string>
+    <string name="addre">አድራሻዎን ያስገቡ : </string>
+    <string name="pay">ክፈል </string>
+    <string name="chosep">የመክፈያ መንገድዎን ይምረጡ: </string>
+    <string name="enterpass">እባክዎ የይለፍ ቃልዎን ያስገቡ </string>
+    <string name="order">እዘዝ</string>
+
+
+    MHD
+    <string name="title">ርዕስ</string>
+    <string name="message">መልዕክት</string>
+    <string name="youro">የትዕዛዝዎ ሹፌር ነጂ</string>
+    <string name="thano">አመሰግናለሁ, ትዕዛዝ ቦታ.</string>
+    <string name="failed">አልተሳካም !!!</string>
+    <string name="cacel">ሰርዝ</string>
+    <string name="add">ወደ ጋሪ ታክሏል</string>
+    <string name="please">እባክዎ የእርስዎን ግንኙነት ይፈትሹ</string>
+    <string name="check">እባክዎ የበይነመረብ ግንኙነትዎን ይፈትሹ</string>
+    <string name="errorf">ስህተት: foodId : </string>
+    <string name="entrr">ምግብዎን ያስገቡ</string>
+    <string name="load">የተጫነ የምግብ ዝርዝር:</string>
+    <string name="value">የቁልፍ ዋጋ:</string>
+    <string name="changep">የሚስጥር ቁልፍ ይቀይሩ</string>
+    <string name="fill">እባክዎ ሁሉንም መረጃ ይሙሉ</string>
+    <string name="change">ለውጥ</string>
+    <string name="passu">የይለፍ ቃል ተዘምኗል</string>
+    <string name="newpassd">አዲስ የይለፍ ቃል አይዛመድም</string>
+    <string name="wropass">የተሳሳተ የድሮ ይለፍ ቃል</string>
+    <string name="entercomm">አስተያየትዎን ያስገቡ...</string>
+    <string name="yes">አዎ</string>
+    <string name="no">አይ</string>
+    <string name="thankc">አመሰግናለሁ, አስተያየት ተልኳል.</string>
+    <string name="error">ስህተት</string>
+    <string name="skip">ይዝለሉ</string>
+    <string name="exit">ውጣ</string>
+    <string name="val">ዋጋ: </string>
+    <string name="enterf">ምግብዎን ያስገቡ</string>
+    <string name="pleasew">እባክዎን ይጠብቁ...<!--ቆይ በናተህ...--></string>
+    <string name="signsuccess">ግባ ስኬት !!!</string>
+    <string name="wrongpass">የተሳሳተ የይለፍ ቃል!!!</string>
+    <string name="userd">ተጠቃሚ በውሂብ ጎታ ውስጥ የለም!</string>
+    <string name="choosel">ቋንቋ ምረጥ ...</string>
+    <string name="phonea">የስልክ ቁጥር አስቀድሞ ምዝገባ ነው !!!</string>
+    <string name="signeucc">በተሳካ ሁኔታ ይመዝገቡ</string>
+    <string name="selecta">እርምጃ ይምረጡ</string>
+
+    <string name="statusupdate">Please choose status</string>
+    <string name="placed">ተቀርጿል</string>
+    <string name="payed">ተከፍሎልተ</string>
+    <string name="cooked">ተዘጋጅቶል</string>
+    <string name="delivering">እየደረሰ ነው</string>
+    <string name="delivered">ደርሶል</string>
+
+    <!--form validation-->
+    <string name="err_name">የእርስዎን ስም ያስገቡ</string>
+    <string name="err_tel">ትክክለኛውን የሞባይል ቁጥር ያስገቡ</string>
+    <string name="err_email">ትክክለኛ ኢሜይል ያስገቡ</string>
+    <string name="err_year">ትክክለኛ ዓመት ያስገቡ</string>
+    <string name="err_height">ትክክለኛውን ርዝመት ያስገቡ </string>
+    <string name="err_password_confirmation">የይለፍ ቃል አይዛመድም</string>
+    <string name="err_password">የይለፍ ቃል ያስገቡ</string>
+    <string name="err_secure">Enter Correct SecureCode For Forget Password</string>
+
+    <string name="err_ctt">ትክክለኛውን ርእስ ያስገቡ</string>
+    <string name="err_cdd">ትክክለኛውን አስተያይቱዎን ያስገቡ</string>
+
+    <string name="err_cbe">ናለ አራት ቁጥር አሃዝ ያስገቡ</string>
+    <string name="err_address">ትክክለኛውን መገኛዎን ያስገቡ</string>
+
+    <string name="myloc">የኔ መገኛ</string>
+    <string name="diver">Driver</string>
+
+    <string-array name="choice_items">
+        <item>CBE BIRR</item>
+        <item>Cash On Delivery</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

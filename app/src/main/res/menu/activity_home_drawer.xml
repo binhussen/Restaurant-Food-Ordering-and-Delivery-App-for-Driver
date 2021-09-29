@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/corder"
+            android:iconTint="@android:color/white"
+            android:title="@string/orders" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_my_location_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/myloc" />
+        <item
+            android:id="@+id/nav_mapsme"
+            android:icon="@drawable/ic_location_city_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/slogan" />
+        <item
+            android:id="@+id/nav_change_password"
+            android:icon="@drawable/ic_security_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/change_password" />
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@drawable/ic_build_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="@string/change_lang" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_log_out"
+            android:iconTint="@android:color/white"
+            android:title="@string/signout" />
+    </group>
+</menu>
